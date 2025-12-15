@@ -5,3 +5,6 @@ torch
 openai
 ffmpeg-python
 openai-whisper
+transformers
+sentencepiece
+accelerate
