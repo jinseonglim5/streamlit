@@ -3,3 +3,5 @@ pandas
 numpy
 torch
 openai
+ffmpeg-python
+openai-whisper
